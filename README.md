@@ -43,4 +43,4 @@ Open in **Power BI Desktop.**
 
 Navigate to the **Economic Impact** page and hit "Play" on the scatter plot to see the 15-year global transition in motion.
 
-![Project Dashboard](Fossil Audit dashboard.png)
+![Fossil Fuel Audit Dashboard](Fossil%20Audit.png)
