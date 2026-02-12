@@ -10,7 +10,7 @@ The **Global Energy Pulse** is a comprehensive Power BI suite designed to analyz
 **3.Economic Impact:** A motion-enabled analysis of GDP vs. Energy Intensity (Efficiency).
 
 ## 🛠️ Technical Highlights
-### **Data Cleaning & Governance: Curated a global dataset to remove regional aggregates (e.g., "North America") to ensure sovereign nation-state comparisons and prevent data double-counting.
+### Data Cleaning & Governance: Curated a global dataset to remove regional aggregates (e.g., "North America") to ensure sovereign nation-state comparisons and prevent data double-counting.
 
 ### Advanced DAX Modeling:
 
@@ -42,4 +42,4 @@ Download the .pbix file.
 Open in **Power BI Desktop.**
 
 Navigate to the **Economic Impact** page and hit "Play" on the scatter plot to see the 15-year global transition in motion.
-![Project Dashboard](Fossil Audit.png, Green Transition.png, Economic Impact.png)
+![Project Dashboard](Fossil Audit.png)
